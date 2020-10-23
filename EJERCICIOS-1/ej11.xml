@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DIAGRAMA ID="1" TIPO="tpLivre" UniversalUnicID="6ADE-BD-5E7F-84-8162-A9-20">
+    <InfoDiagrama ID="1">
+        <Versao Valor="3.2.0"/>
+        <Autores/>
+        <Observacao/>
+        <Width Valor="4096"/>
+        <Height Valor="4096"/>
+        <Alinhamento_v Valor="50"/>
+        <Alinhamento_h Valor="60"/>
+        <Zoom Valor="100"/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Localizacao Left="0" Top="0"/>
+        <Realce Valor="false"/>
+    </InfoDiagrama>
+    <LivreRetangulo ID="2">
+        <Bounds Height="58" Left="23" Top="31" Width="120"/>
+        <DisablePainted Valor="false"/>
+        <Texto>EMPRESA</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <Dashed Valor="false"/>
+        <Gradiente Valor="true"/>
+        <GradienteStartColor Valor="0,0,0,255"/>
+        <GradienteEndColor Valor="255,255,255,255"/>
+        <GDirecao Valor="0"/>
+        <Alfa Valor="80"/>
+    </LivreRetangulo>
+    <LivreRetangulo ID="4">
+        <Bounds Height="58" Left="358" Top="31" Width="120"/>
+        <DisablePainted Valor="false"/>
+        <Texto>SISTEMAS</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <Dashed Valor="false"/>
+        <Gradiente Valor="true"/>
+        <GradienteStartColor Valor="0,0,0,255"/>
+        <GradienteEndColor Valor="255,255,255,255"/>
+        <GDirecao Valor="0"/>
+        <Alfa Valor="80"/>
+    </LivreRetangulo>
+    <LivreRetangulo ID="7">
+        <Bounds Height="58" Left="684" Top="30" Width="120"/>
+        <DisablePainted Valor="false"/>
+        <Texto>PERMISSOES</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <Dashed Valor="false"/>
+        <Gradiente Valor="true"/>
+        <GradienteStartColor Valor="0,0,0,255"/>
+        <GradienteEndColor Valor="255,255,255,255"/>
+        <GDirecao Valor="0"/>
+        <Alfa Valor="80"/>
+    </LivreRetangulo>
+    <LivreRetangulo ID="8">
+        <Bounds Height="58" Left="1013" Top="31" Width="120"/>
+        <DisablePainted Valor="false"/>
+        <Texto>USUARIOS</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <Dashed Valor="false"/>
+        <Gradiente Valor="true"/>
+        <GradienteStartColor Valor="0,0,0,255"/>
+        <GradienteEndColor Valor="255,255,255,255"/>
+        <GDirecao Valor="0"/>
+        <Alfa Valor="80"/>
+    </LivreRetangulo>
+    <LivreLosango ID="11">
+        <Bounds Height="40" Left="204" Top="37" Width="100"/>
+        <DisablePainted Valor="false"/>
+        <Texto>RELACAO</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <Dashed Valor="false"/>
+        <Gradiente Valor="true"/>
+        <GradienteStartColor Valor="0,0,0,255"/>
+        <GradienteEndColor Valor="255,255,255,255"/>
+        <GDirecao Valor="0"/>
+        <Alfa Valor="80"/>
+    </LivreLosango>
+    <LivreLosango ID="13">
+        <Bounds Height="40" Left="861" Top="38" Width="100"/>
+        <DisablePainted Valor="false"/>
+        <Texto>RELACAO</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <Dashed Valor="false"/>
+        <Gradiente Valor="true"/>
+        <GradienteStartColor Valor="0,0,0,255"/>
+        <GradienteEndColor Valor="255,255,255,255"/>
+        <GDirecao Valor="0"/>
+        <Alfa Valor="80"/>
+    </LivreLosango>
+    <LivreLosango ID="14">
+        <Bounds Height="40" Left="534" Top="38" Width="100"/>
+        <DisablePainted Valor="false"/>
+        <Texto>RELACAO</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <Dashed Valor="false"/>
+        <Gradiente Valor="true"/>
+        <GradienteStartColor Valor="0,0,0,255"/>
+        <GradienteEndColor Valor="255,255,255,255"/>
+        <GDirecao Valor="0"/>
+        <Alfa Valor="80"/>
+    </LivreLosango>
+    <LivreLigacao ID="16">
+        <DisablePainted Valor="false"/>
+        <Tag LinhaMestre="-1"/>
+        <Dashed Valor="false"/>
+        <Ancorado Valor="false"/>
+        <TemSetaPontaA Valor="false"/>
+        <TemSetaPontaB Valor="true"/>
+        <SetaAberta Valor="true"/>
+        <SetaLargura Valor="20"/>
+        <Inteligente Valor="true"/>
+        <Largura Valor="1"/>
+        <Ligacoes PontaA="2" PontaB="-1"/>
+        <Pontos>
+            <Ponto Left="140" Top="57"/>
+            <Ponto Left="203" Top="53"/>
+        </Pontos>
+        <LivreTextoApenso ID="17">
+            <Bounds Height="20" Left="151" Top="22" Width="50"/>
+            <DisablePainted Valor="false"/>
+            <Texto>(1,n)</Texto>
+            <Observacao/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+            <Alinhamento Valor="0"/>
+            <CentrarVertical Valor="false"/>
+            <Tipo Valor="1"/>
+            <Autosize Valor="true"/>
+            <MovimentacaoManual Valor="false"/>
+        </LivreTextoApenso>
+    </LivreLigacao>
+    <LivreLigacao ID="18">
+        <DisablePainted Valor="false"/>
+        <Tag LinhaMestre="-1"/>
+        <Dashed Valor="false"/>
+        <Ancorado Valor="false"/>
+        <TemSetaPontaA Valor="false"/>
+        <TemSetaPontaB Valor="true"/>
+        <SetaAberta Valor="true"/>
+        <SetaLargura Valor="20"/>
+        <Inteligente Valor="true"/>
+        <Largura Valor="1"/>
+        <Ligacoes PontaA="4" PontaB="-1"/>
+        <Pontos>
+            <Ponto Left="355" Top="57"/>
+            <Ponto Left="301" Top="53"/>
+        </Pontos>
+        <LivreTextoApenso ID="19">
+            <Bounds Height="20" Left="302" Top="22" Width="50"/>
+            <DisablePainted Valor="false"/>
+            <Texto>(n,1)</Texto>
+            <Observacao/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+            <Alinhamento Valor="0"/>
+            <CentrarVertical Valor="false"/>
+            <Tipo Valor="1"/>
+            <Autosize Valor="true"/>
+            <MovimentacaoManual Valor="false"/>
+        </LivreTextoApenso>
+    </LivreLigacao>
+    <LivreLigacao ID="20">
+        <DisablePainted Valor="false"/>
+        <Tag LinhaMestre="-1"/>
+        <Dashed Valor="false"/>
+        <Ancorado Valor="false"/>
+        <TemSetaPontaA Valor="false"/>
+        <TemSetaPontaB Valor="true"/>
+        <SetaAberta Valor="true"/>
+        <SetaLargura Valor="20"/>
+        <Inteligente Valor="true"/>
+        <Largura Valor="1"/>
+        <Ligacoes PontaA="-1" PontaB="14"/>
+        <Pontos>
+            <Ponto Left="475" Top="56"/>
+            <Ponto Left="531" Top="55"/>
+        </Pontos>
+        <LivreTextoApenso ID="21">
+            <Bounds Height="23" Left="484" Top="19" Width="50"/>
+            <DisablePainted Valor="false"/>
+            <Texto>(n,n)</Texto>
+            <Observacao/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+            <Alinhamento Valor="0"/>
+            <CentrarVertical Valor="false"/>
+            <Tipo Valor="1"/>
+            <Autosize Valor="true"/>
+            <MovimentacaoManual Valor="true"/>
+        </LivreTextoApenso>
+    </LivreLigacao>
+    <LivreLigacao ID="22">
+        <DisablePainted Valor="false"/>
+        <Tag LinhaMestre="-1"/>
+        <Dashed Valor="false"/>
+        <Ancorado Valor="false"/>
+        <TemSetaPontaA Valor="false"/>
+        <TemSetaPontaB Valor="true"/>
+        <SetaAberta Valor="true"/>
+        <SetaLargura Valor="20"/>
+        <Inteligente Valor="true"/>
+        <Largura Valor="1"/>
+        <Ligacoes PontaA="7" PontaB="-1"/>
+        <Pontos>
+            <Ponto Left="681" Top="56"/>
+            <Ponto Left="634" Top="57"/>
+        </Pontos>
+        <LivreTextoApenso ID="23">
+            <Bounds Height="21" Left="631" Top="19" Width="50"/>
+            <DisablePainted Valor="false"/>
+            <Texto>(n,n)</Texto>
+            <Observacao/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+            <Alinhamento Valor="0"/>
+            <CentrarVertical Valor="false"/>
+            <Tipo Valor="1"/>
+            <Autosize Valor="true"/>
+            <MovimentacaoManual Valor="false"/>
+        </LivreTextoApenso>
+    </LivreLigacao>
+    <LivreLigacao ID="24">
+        <DisablePainted Valor="false"/>
+        <Tag LinhaMestre="-1"/>
+        <Dashed Valor="false"/>
+        <Ancorado Valor="false"/>
+        <TemSetaPontaA Valor="false"/>
+        <TemSetaPontaB Valor="true"/>
+        <SetaAberta Valor="true"/>
+        <SetaLargura Valor="20"/>
+        <Inteligente Valor="true"/>
+        <Largura Valor="1"/>
+        <Ligacoes PontaA="7" PontaB="-1"/>
+        <Pontos>
+            <Ponto Left="801" Top="56"/>
+            <Ponto Left="857" Top="57"/>
+        </Pontos>
+        <LivreTextoApenso ID="25">
+            <Bounds Height="20" Left="809" Top="19" Width="50"/>
+            <DisablePainted Valor="false"/>
+            <Texto>(n,n)</Texto>
+            <Observacao/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+            <Alinhamento Valor="0"/>
+            <CentrarVertical Valor="false"/>
+            <Tipo Valor="1"/>
+            <Autosize Valor="true"/>
+            <MovimentacaoManual Valor="false"/>
+        </LivreTextoApenso>
+    </LivreLigacao>
+    <LivreLigacao ID="26">
+        <DisablePainted Valor="false"/>
+        <Tag LinhaMestre="-1"/>
+        <Dashed Valor="false"/>
+        <Ancorado Valor="false"/>
+        <TemSetaPontaA Valor="false"/>
+        <TemSetaPontaB Valor="true"/>
+        <SetaAberta Valor="true"/>
+        <SetaLargura Valor="20"/>
+        <Inteligente Valor="true"/>
+        <Largura Valor="1"/>
+        <Ligacoes PontaA="8" PontaB="-1"/>
+        <Pontos>
+            <Ponto Left="1010" Top="57"/>
+            <Ponto Left="957" Top="58"/>
+        </Pontos>
+        <LivreTextoApenso ID="27">
+            <Bounds Height="21" Left="957" Top="18" Width="50"/>
+            <DisablePainted Valor="false"/>
+            <Texto>(n,n)</Texto>
+            <Observacao/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+            <Alinhamento Valor="0"/>
+            <CentrarVertical Valor="false"/>
+            <Tipo Valor="1"/>
+            <Autosize Valor="true"/>
+            <MovimentacaoManual Valor="true"/>
+        </LivreTextoApenso>
+    </LivreLigacao>
+    <LivreRetangulo ID="37">
+        <Bounds Height="58" Left="683" Top="279" Width="120"/>
+        <DisablePainted Valor="false"/>
+        <Texto>PERFIL</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <Dashed Valor="false"/>
+        <Gradiente Valor="true"/>
+        <GradienteStartColor Valor="0,0,0,255"/>
+        <GradienteEndColor Valor="255,255,255,255"/>
+        <GDirecao Valor="0"/>
+        <Alfa Valor="80"/>
+    </LivreRetangulo>
+    <LivreLosango ID="40">
+        <Bounds Height="40" Left="896" Top="173" Width="100"/>
+        <DisablePainted Valor="false"/>
+        <Texto>RELACAO</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <Dashed Valor="false"/>
+        <Gradiente Valor="true"/>
+        <GradienteStartColor Valor="0,0,0,255"/>
+        <GradienteEndColor Valor="255,255,255,255"/>
+        <GDirecao Valor="0"/>
+        <Alfa Valor="80"/>
+    </LivreLosango>
+    <LivreLosango ID="42">
+        <Bounds Height="40" Left="493" Top="176" Width="100"/>
+        <DisablePainted Valor="false"/>
+        <Texto>RELACAO</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <Dashed Valor="false"/>
+        <Gradiente Valor="true"/>
+        <GradienteStartColor Valor="0,0,0,255"/>
+        <GradienteEndColor Valor="255,255,255,255"/>
+        <GDirecao Valor="0"/>
+        <Alfa Valor="80"/>
+    </LivreLosango>
+    <LivreLosango ID="43">
+        <Bounds Height="40" Left="693" Top="165" Width="100"/>
+        <DisablePainted Valor="false"/>
+        <Texto>RELACAO</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <Dashed Valor="false"/>
+        <Gradiente Valor="true"/>
+        <GradienteStartColor Valor="0,0,0,255"/>
+        <GradienteEndColor Valor="255,255,255,255"/>
+        <GDirecao Valor="0"/>
+        <Alfa Valor="80"/>
+    </LivreLosango>
+    <LivreLigacao ID="46">
+        <DisablePainted Valor="false"/>
+        <Tag LinhaMestre="-1"/>
+        <Dashed Valor="false"/>
+        <Ancorado Valor="false"/>
+        <TemSetaPontaA Valor="false"/>
+        <TemSetaPontaB Valor="true"/>
+        <SetaAberta Valor="true"/>
+        <SetaLargura Valor="20"/>
+        <Inteligente Valor="true"/>
+        <Largura Valor="1"/>
+        <Ligacoes PontaA="8" PontaB="-1"/>
+        <Pontos>
+            <Ponto Left="1070" Top="86"/>
+            <Ponto Left="946" Top="169"/>
+        </Pontos>
+        <LivreTextoApenso ID="47">
+            <Bounds Height="21" Left="1026" Top="130" Width="50"/>
+            <DisablePainted Valor="false"/>
+            <Texto>(1,n)</Texto>
+            <Observacao/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+            <Alinhamento Valor="0"/>
+            <CentrarVertical Valor="false"/>
+            <Tipo Valor="1"/>
+            <Autosize Valor="true"/>
+            <MovimentacaoManual Valor="true"/>
+        </LivreTextoApenso>
+    </LivreLigacao>
+    <LivreLigacao ID="48">
+        <DisablePainted Valor="false"/>
+        <Tag LinhaMestre="-1"/>
+        <Dashed Valor="false"/>
+        <Ancorado Valor="false"/>
+        <TemSetaPontaA Valor="false"/>
+        <TemSetaPontaB Valor="true"/>
+        <SetaAberta Valor="true"/>
+        <SetaLargura Valor="20"/>
+        <Inteligente Valor="true"/>
+        <Largura Valor="1"/>
+        <Ligacoes PontaA="37" PontaB="-1"/>
+        <Pontos>
+            <Ponto Left="800" Top="305"/>
+            <Ponto Left="932" Top="209"/>
+        </Pontos>
+        <LivreTextoApenso ID="49">
+            <Bounds Height="21" Left="884" Top="253" Width="50"/>
+            <DisablePainted Valor="false"/>
+            <Texto>(n,1)</Texto>
+            <Observacao/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+            <Alinhamento Valor="0"/>
+            <CentrarVertical Valor="false"/>
+            <Tipo Valor="1"/>
+            <Autosize Valor="true"/>
+            <MovimentacaoManual Valor="true"/>
+        </LivreTextoApenso>
+    </LivreLigacao>
+    <LivreLigacao ID="52">
+        <DisablePainted Valor="false"/>
+        <Tag LinhaMestre="-1"/>
+        <Dashed Valor="false"/>
+        <Ancorado Valor="false"/>
+        <TemSetaPontaA Valor="false"/>
+        <TemSetaPontaB Valor="true"/>
+        <SetaAberta Valor="true"/>
+        <SetaLargura Valor="20"/>
+        <Inteligente Valor="true"/>
+        <Largura Valor="1"/>
+        <Ligacoes PontaA="7" PontaB="-1"/>
+        <Pontos>
+            <Ponto Left="741" Top="85"/>
+            <Ponto Left="744" Top="162"/>
+        </Pontos>
+        <LivreTextoApenso ID="53">
+            <Bounds Height="21" Left="751" Top="112" Width="50"/>
+            <DisablePainted Valor="false"/>
+            <Texto>(n,n)</Texto>
+            <Observacao/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+            <Alinhamento Valor="0"/>
+            <CentrarVertical Valor="false"/>
+            <Tipo Valor="1"/>
+            <Autosize Valor="true"/>
+            <MovimentacaoManual Valor="true"/>
+        </LivreTextoApenso>
+    </LivreLigacao>
+    <LivreLigacao ID="54">
+        <DisablePainted Valor="false"/>
+        <Tag LinhaMestre="-1"/>
+        <Dashed Valor="false"/>
+        <Ancorado Valor="false"/>
+        <TemSetaPontaA Valor="false"/>
+        <TemSetaPontaB Valor="true"/>
+        <SetaAberta Valor="true"/>
+        <SetaLargura Valor="20"/>
+        <Inteligente Valor="true"/>
+        <Largura Valor="1"/>
+        <Ligacoes PontaA="37" PontaB="-1"/>
+        <Pontos>
+            <Ponto Left="740" Top="276"/>
+            <Ponto Left="739" Top="207"/>
+        </Pontos>
+        <LivreTextoApenso ID="55">
+            <Bounds Height="22" Left="750" Top="232" Width="50"/>
+            <DisablePainted Valor="false"/>
+            <Texto>(n,n)</Texto>
+            <Observacao/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+            <Alinhamento Valor="0"/>
+            <CentrarVertical Valor="false"/>
+            <Tipo Valor="1"/>
+            <Autosize Valor="true"/>
+            <MovimentacaoManual Valor="true"/>
+        </LivreTextoApenso>
+    </LivreLigacao>
+    <LivreLigacao ID="57">
+        <DisablePainted Valor="false"/>
+        <Tag LinhaMestre="-1"/>
+        <Dashed Valor="false"/>
+        <Ancorado Valor="false"/>
+        <TemSetaPontaA Valor="false"/>
+        <TemSetaPontaB Valor="true"/>
+        <SetaAberta Valor="true"/>
+        <SetaLargura Valor="20"/>
+        <Inteligente Valor="true"/>
+        <Largura Valor="1"/>
+        <Ligacoes PontaA="37" PontaB="-1"/>
+        <Pontos>
+            <Ponto Left="740" Top="276"/>
+            <Ponto Left="560" Top="205"/>
+        </Pontos>
+        <LivreTextoApenso ID="58">
+            <Bounds Height="22" Left="587" Top="242" Width="50"/>
+            <DisablePainted Valor="false"/>
+            <Texto>(n,n)</Texto>
+            <Observacao/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+            <Alinhamento Valor="0"/>
+            <CentrarVertical Valor="false"/>
+            <Tipo Valor="1"/>
+            <Autosize Valor="true"/>
+            <MovimentacaoManual Valor="true"/>
+        </LivreTextoApenso>
+    </LivreLigacao>
+    <LivreLigacao ID="59">
+        <DisablePainted Valor="false"/>
+        <Tag LinhaMestre="-1"/>
+        <Dashed Valor="false"/>
+        <Ancorado Valor="false"/>
+        <TemSetaPontaA Valor="false"/>
+        <TemSetaPontaB Valor="true"/>
+        <SetaAberta Valor="true"/>
+        <SetaLargura Valor="20"/>
+        <Inteligente Valor="true"/>
+        <Largura Valor="1"/>
+        <Ligacoes PontaA="4" PontaB="-1"/>
+        <Pontos>
+            <Ponto Left="415" Top="86"/>
+            <Ponto Left="531" Top="176"/>
+        </Pontos>
+        <LivreTextoApenso ID="60">
+            <Bounds Height="21" Left="412" Top="126" Width="50"/>
+            <DisablePainted Valor="false"/>
+            <Texto>(n,n)</Texto>
+            <Observacao/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+            <Alinhamento Valor="0"/>
+            <CentrarVertical Valor="false"/>
+            <Tipo Valor="1"/>
+            <Autosize Valor="true"/>
+            <MovimentacaoManual Valor="true"/>
+        </LivreTextoApenso>
+    </LivreLigacao>
+    <LivreRetangulo ID="77">
+        <Bounds Height="58" Left="234" Top="285" Width="120"/>
+        <DisablePainted Valor="false"/>
+        <Texto>MODULOS</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <Dashed Valor="false"/>
+        <Gradiente Valor="true"/>
+        <GradienteStartColor Valor="0,0,0,255"/>
+        <GradienteEndColor Valor="255,255,255,255"/>
+        <GDirecao Valor="0"/>
+        <Alfa Valor="80"/>
+    </LivreRetangulo>
+    <LivreLosango ID="78">
+        <Bounds Height="40" Left="304" Top="158" Width="100"/>
+        <DisablePainted Valor="false"/>
+        <Texto>RELACAO</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <Dashed Valor="false"/>
+        <Gradiente Valor="true"/>
+        <GradienteStartColor Valor="0,0,0,255"/>
+        <GradienteEndColor Valor="255,255,255,255"/>
+        <GDirecao Valor="0"/>
+        <Alfa Valor="80"/>
+    </LivreLosango>
+    <LivreLigacao ID="79">
+        <DisablePainted Valor="false"/>
+        <Tag LinhaMestre="-1"/>
+        <Dashed Valor="false"/>
+        <Ancorado Valor="false"/>
+        <TemSetaPontaA Valor="false"/>
+        <TemSetaPontaB Valor="true"/>
+        <SetaAberta Valor="true"/>
+        <SetaLargura Valor="20"/>
+        <Inteligente Valor="true"/>
+        <Largura Valor="1"/>
+        <Ligacoes PontaA="4" PontaB="-1"/>
+        <Pontos>
+            <Ponto Left="415" Top="86"/>
+            <Ponto Left="348" Top="154"/>
+        </Pontos>
+        <LivreTextoApenso ID="80">
+            <Bounds Height="21" Left="322" Top="104" Width="50"/>
+            <DisablePainted Valor="false"/>
+            <Texto>(1,n)</Texto>
+            <Observacao/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+            <Alinhamento Valor="0"/>
+            <CentrarVertical Valor="false"/>
+            <Tipo Valor="1"/>
+            <Autosize Valor="true"/>
+            <MovimentacaoManual Valor="true"/>
+        </LivreTextoApenso>
+    </LivreLigacao>
+    <LivreLigacao ID="82">
+        <DisablePainted Valor="false"/>
+        <Tag LinhaMestre="-1"/>
+        <Dashed Valor="false"/>
+        <Ancorado Valor="false"/>
+        <TemSetaPontaA Valor="false"/>
+        <TemSetaPontaB Valor="true"/>
+        <SetaAberta Valor="true"/>
+        <SetaLargura Valor="20"/>
+        <Inteligente Valor="true"/>
+        <Largura Valor="1"/>
+        <Ligacoes PontaA="77" PontaB="-1"/>
+        <Pontos>
+            <Ponto Left="291" Top="282"/>
+            <Ponto Left="345" Top="196"/>
+        </Pontos>
+        <LivreTextoApenso ID="83">
+            <Bounds Height="22" Left="263" Top="219" Width="50"/>
+            <DisablePainted Valor="false"/>
+            <Texto>(n,1)</Texto>
+            <Observacao/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+            <Alinhamento Valor="0"/>
+            <CentrarVertical Valor="false"/>
+            <Tipo Valor="1"/>
+            <Autosize Valor="true"/>
+            <MovimentacaoManual Valor="true"/>
+        </LivreTextoApenso>
+    </LivreLigacao>
+</DIAGRAMA>

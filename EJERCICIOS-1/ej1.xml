@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DIAGRAMA ID="1" TIPO="tpLivre" UniversalUnicID="19E6-5D-13D8-98-1CC6-25-90">
+    <InfoDiagrama ID="1">
+        <Versao Valor="3.2.0"/>
+        <Autores/>
+        <Observacao/>
+        <Width Valor="4096"/>
+        <Height Valor="4096"/>
+        <Alinhamento_v Valor="50"/>
+        <Alinhamento_h Valor="60"/>
+        <Zoom Valor="100"/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Localizacao Left="0" Top="0"/>
+        <Realce Valor="false"/>
+    </InfoDiagrama>
+    <LivreRetangulo ID="2">
+        <Bounds Height="58" Left="39" Top="66" Width="120"/>
+        <DisablePainted Valor="false"/>
+        <Texto>ALUNOS</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <Dashed Valor="false"/>
+        <Gradiente Valor="true"/>
+        <GradienteStartColor Valor="0,0,0,255"/>
+        <GradienteEndColor Valor="255,255,255,255"/>
+        <GDirecao Valor="0"/>
+        <Alfa Valor="80"/>
+    </LivreRetangulo>
+    <LivreRetangulo ID="3">
+        <Bounds Height="58" Left="518" Top="65" Width="120"/>
+        <DisablePainted Valor="false"/>
+        <Texto>TRABALHOS</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <Dashed Valor="false"/>
+        <Gradiente Valor="true"/>
+        <GradienteStartColor Valor="0,0,0,255"/>
+        <GradienteEndColor Valor="255,255,255,255"/>
+        <GDirecao Valor="0"/>
+        <Alfa Valor="80"/>
+    </LivreRetangulo>
+    <LivreLosango ID="4">
+        <Bounds Height="40" Left="296" Top="71" Width="100"/>
+        <DisablePainted Valor="false"/>
+        <Texto>RELACAO</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <Dashed Valor="false"/>
+        <Gradiente Valor="true"/>
+        <GradienteStartColor Valor="0,0,0,255"/>
+        <GradienteEndColor Valor="255,255,255,255"/>
+        <GDirecao Valor="0"/>
+        <Alfa Valor="80"/>
+    </LivreLosango>
+    <LivreLigacao ID="15">
+        <DisablePainted Valor="false"/>
+        <Tag LinhaMestre="-1"/>
+        <Dashed Valor="false"/>
+        <Ancorado Valor="false"/>
+        <TemSetaPontaA Valor="false"/>
+        <TemSetaPontaB Valor="true"/>
+        <SetaAberta Valor="true"/>
+        <SetaLargura Valor="20"/>
+        <Inteligente Valor="true"/>
+        <Largura Valor="1"/>
+        <Ligacoes PontaA="3" PontaB="-1"/>
+        <Pontos>
+            <Ponto Left="515" Top="91"/>
+            <Ponto Left="389" Top="92"/>
+        </Pontos>
+        <LivreTextoApenso ID="16">
+            <Bounds Height="19" Left="430" Top="74" Width="50"/>
+            <DisablePainted Valor="false"/>
+            <Texto>( 1,n )</Texto>
+            <Observacao/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+            <Alinhamento Valor="0"/>
+            <CentrarVertical Valor="false"/>
+            <Tipo Valor="1"/>
+            <Autosize Valor="true"/>
+            <MovimentacaoManual Valor="false"/>
+        </LivreTextoApenso>
+    </LivreLigacao>
+    <LivreLigacao ID="17">
+        <DisablePainted Valor="false"/>
+        <Tag LinhaMestre="-1"/>
+        <Dashed Valor="false"/>
+        <Ancorado Valor="false"/>
+        <TemSetaPontaA Valor="false"/>
+        <TemSetaPontaB Valor="true"/>
+        <SetaAberta Valor="true"/>
+        <SetaLargura Valor="20"/>
+        <Inteligente Valor="true"/>
+        <Largura Valor="1"/>
+        <Ligacoes PontaA="2" PontaB="-1"/>
+        <Pontos>
+            <Ponto Left="156" Top="92"/>
+            <Ponto Left="296" Top="90"/>
+        </Pontos>
+        <LivreTextoApenso ID="18">
+            <Bounds Height="21" Left="204" Top="72" Width="50"/>
+            <DisablePainted Valor="false"/>
+            <Texto>
+( 1,n )</Texto>
+            <Observacao/>
+            <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+            <Ancorado Valor="false"/>
+            <Alinhamento Valor="0"/>
+            <CentrarVertical Valor="false"/>
+            <Tipo Valor="1"/>
+            <Autosize Valor="true"/>
+            <MovimentacaoManual Valor="false"/>
+        </LivreTextoApenso>
+    </LivreLigacao>
+</DIAGRAMA>
