@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<DIAGRAMA ID="1" TIPO="tpLivre" UniversalUnicID="4827-4A-7D1E-4-A886-76-93">
+<DIAGRAMA ID="1" TIPO="tpConceitual" UniversalUnicID="FD1-FD-DA46-ED-576A-D7-E7">
     <InfoDiagrama ID="1">
         <Versao Valor="3.2.0"/>
         <Autores/>
@@ -13,109 +13,122 @@
         <Localizacao Left="0" Top="0"/>
         <Realce Valor="false"/>
     </InfoDiagrama>
-    <LivreRetangulo ID="2">
-        <Bounds Height="58" Left="29" Top="35" Width="120"/>
+    <Entidade ID="2">
+        <Bounds Height="58" Left="24" Top="24" Width="120"/>
         <DisablePainted Valor="false"/>
-        <Texto>AUTOR</Texto>
+        <Texto>Autor</Texto>
         <Observacao/>
         <Dicionario/>
         <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
         <Ancorado Valor="false"/>
-        <Dashed Valor="false"/>
-        <Gradiente Valor="true"/>
-        <GradienteStartColor Valor="0,0,0,255"/>
-        <GradienteEndColor Valor="255,255,255,255"/>
-        <GDirecao Valor="0"/>
-        <Alfa Valor="80"/>
-    </LivreRetangulo>
-    <LivreRetangulo ID="3">
-        <Bounds Height="58" Left="457" Top="36" Width="120"/>
+        <AtributosOcultos Valor=""/>
+    </Entidade>
+    <Entidade ID="3">
+        <Bounds Height="58" Left="450" Top="24" Width="120"/>
         <DisablePainted Valor="false"/>
-        <Texto>LIVROS</Texto>
+        <Texto>Livros</Texto>
         <Observacao/>
         <Dicionario/>
         <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
         <Ancorado Valor="false"/>
-        <Dashed Valor="false"/>
-        <Gradiente Valor="true"/>
-        <GradienteStartColor Valor="0,0,0,255"/>
-        <GradienteEndColor Valor="255,255,255,255"/>
-        <GDirecao Valor="0"/>
-        <Alfa Valor="80"/>
-    </LivreRetangulo>
-    <LivreLosango ID="4">
-        <Bounds Height="40" Left="258" Top="43" Width="100"/>
-        <DisablePainted Valor="false"/>
-        <Texto>RELACAO</Texto>
-        <Observacao/>
-        <Dicionario/>
-        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-        <Ancorado Valor="false"/>
-        <Dashed Valor="false"/>
-        <Gradiente Valor="true"/>
-        <GradienteStartColor Valor="0,0,0,255"/>
-        <GradienteEndColor Valor="255,255,255,255"/>
-        <GDirecao Valor="0"/>
-        <Alfa Valor="80"/>
-    </LivreLosango>
-    <LivreLigacao ID="5">
+        <AtributosOcultos Valor=""/>
+    </Entidade>
+    <Ligacao ID="4">
         <DisablePainted Valor="false"/>
         <Tag LinhaMestre="-1"/>
         <Dashed Valor="false"/>
         <Ancorado Valor="false"/>
         <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="true"/>
+        <TemSetaPontaB Valor="false"/>
         <SetaAberta Valor="true"/>
-        <SetaLargura Valor="20"/>
+        <SetaLargura Valor="10"/>
         <Inteligente Valor="true"/>
         <Largura Valor="1"/>
-        <Ligacoes PontaA="3" PontaB="-1"/>
+        <Ligacoes PontaA="5" PontaB="2"/>
         <Pontos>
-            <Ponto Left="454" Top="62"/>
-            <Ponto Left="356" Top="61"/>
+            <Ponto Left="219" Top="50"/>
+            <Ponto Left="180" Top="50"/>
+            <Ponto Left="180" Top="50"/>
+            <Ponto Left="141" Top="50"/>
         </Pontos>
-        <LivreTextoApenso ID="6">
-            <Bounds Height="20" Left="383" Top="37" Width="50"/>
+        <Cardinalidade ID="6">
+            <Bounds Height="14" Left="151" Top="38" Width="35"/>
             <DisablePainted Valor="false"/>
-            <Texto>( 1,n )</Texto>
+            <Texto>Cardinalidade_1</Texto>
             <Observacao/>
+            <Dicionario/>
             <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
             <Ancorado Valor="false"/>
-            <Alinhamento Valor="0"/>
-            <CentrarVertical Valor="false"/>
-            <Tipo Valor="1"/>
-            <Autosize Valor="true"/>
+            <TamanhoAutmatico Valor="true"/>
+            <Card Valor="2"/>
             <MovimentacaoManual Valor="false"/>
-        </LivreTextoApenso>
-    </LivreLigacao>
-    <LivreLigacao ID="7">
+            <Papel Valor=""/>
+        </Cardinalidade>
+    </Ligacao>
+    <Relacionamento ID="5">
+        <Bounds Height="50" Left="222" Top="28" Width="150"/>
+        <DisablePainted Valor="false"/>
+        <Texto>Escreve</Texto>
+        <Observacao/>
+        <Dicionario/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+    </Relacionamento>
+    <Ligacao ID="7">
         <DisablePainted Valor="false"/>
         <Tag LinhaMestre="-1"/>
         <Dashed Valor="false"/>
         <Ancorado Valor="false"/>
         <TemSetaPontaA Valor="false"/>
-        <TemSetaPontaB Valor="true"/>
+        <TemSetaPontaB Valor="false"/>
         <SetaAberta Valor="true"/>
-        <SetaLargura Valor="20"/>
+        <SetaLargura Valor="10"/>
         <Inteligente Valor="true"/>
         <Largura Valor="1"/>
-        <Ligacoes PontaA="2" PontaB="-1"/>
+        <Ligacoes PontaA="3" PontaB="5"/>
         <Pontos>
-            <Ponto Left="146" Top="61"/>
-            <Ponto Left="259" Top="58"/>
+            <Ponto Left="446" Top="49"/>
+            <Ponto Left="408" Top="49"/>
+            <Ponto Left="408" Top="50"/>
+            <Ponto Left="369" Top="50"/>
         </Pontos>
-        <LivreTextoApenso ID="8">
-            <Bounds Height="20" Left="180" Top="35" Width="50"/>
+        <Cardinalidade ID="8">
+            <Bounds Height="14" Left="407" Top="37" Width="35"/>
             <DisablePainted Valor="false"/>
-            <Texto>( 1,n )</Texto>
+            <Texto>Cardinalidade_2</Texto>
             <Observacao/>
+            <Dicionario/>
             <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
             <Ancorado Valor="false"/>
-            <Alinhamento Valor="0"/>
-            <CentrarVertical Valor="false"/>
-            <Tipo Valor="1"/>
-            <Autosize Valor="true"/>
+            <TamanhoAutmatico Valor="true"/>
+            <Card Valor="3"/>
             <MovimentacaoManual Valor="false"/>
-        </LivreTextoApenso>
-    </LivreLigacao>
+            <Papel Valor=""/>
+        </Cardinalidade>
+    </Ligacao>
+    <Texto ID="8">
+        <Bounds Height="21" Left="42" Top="107" Width="505"/>
+        <DisablePainted Valor="false"/>
+        <Texto>3 - Um autor escreve vários livros. Um livro pode ser escrito por vários autores.</Texto>
+        <Observacao/>
+        <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+        <Ancorado Valor="false"/>
+        <Titulo>Observação_1</Titulo>
+        <PaintTitulo Valor="false"/>
+        <Alinhamento Valor="0"/>
+        <CentrarVertical Valor="false"/>
+        <Tipo Valor="1"/>
+        <BackColor Valor="255,255,255,255"/>
+        <Sombra Valor="true"/>
+        <CorSombra Valor="51,51,51,255"/>
+        <Gradiente Valor="false"/>
+        <GradienteStartColor Valor="0,0,0,255"/>
+        <GradienteEndColor Valor="204,204,204,255"/>
+        <GradientePinteDetalhe Valor="true"/>
+        <GradienteCorDetalhe Valor="102,102,102,255"/>
+        <GDirecao Valor="0"/>
+        <Alfa Valor="80"/>
+        <Autosize Valor="false"/>
+        <MovimentacaoManual Valor="true"/>
+    </Texto>
 </DIAGRAMA>
